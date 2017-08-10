@@ -5,7 +5,6 @@ require 'minitest/color'
 
 require_relative 'beer_song'
 
-# rubocop:disable Metrics/LineLength
 class BeerSongTest < Minitest::Test
   def test_the_first_verse
     expected = "99 bottles of beer on the wall, 99 bottles of beer.\n" \
