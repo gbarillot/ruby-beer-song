@@ -12,7 +12,7 @@ Then select a working directory and clone this repository
 
 ## Getting started
 
-- Get into the newly created directory bury-beer-song
+- Get into the newly created directory ruby-beer-song
 - Run the test suite:
 
 ```
