@@ -1,6 +1,8 @@
 #!/usr/bin/env ruby
 gem 'minitest', '>= 5.0.0'
 require 'minitest/autorun'
+require 'minitest/color'
+
 require_relative 'beer_song'
 
 # rubocop:disable Metrics/LineLength

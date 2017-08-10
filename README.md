@@ -1,13 +1,25 @@
-# Prerequisites
+# Ruby: Beer Song
 
-Install those 2 Gems first :
+## Installation
+
+Install this Gem first:
 
 ```Shell
-gem install minitest
 gem install minitest-color
 ```
 
-# Ruby: Beer Song
+Then select a working directory and clone this repository
+
+## Getting started
+
+- Get into the newly created directory bury-beer-song
+- Run the test suite:
+
+```
+ruby beer-song-test.rb
+```
+
+## The goal
 
 Write a program which produces the lyrics to that beloved classic, that field-trip favorite: 99 Bottles of Beer on the Wall.
 
