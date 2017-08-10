@@ -3,8 +3,8 @@
 Install those 2 Gems first :
 
 ```Shell
-  gem install minitest
-  gem install minitest-color
+gem install minitest
+gem install minitest-color
 ```
 
 # Ruby: Beer Song
