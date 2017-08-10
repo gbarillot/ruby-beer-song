@@ -1,3 +1,12 @@
+# Prerequisites
+
+Install those 2 Gems first :
+
+```Shell
+  gem install minitest
+  gem install minitest-color
+```
+
 # Ruby: Beer Song
 
 Write a program which produces the lyrics to that beloved classic, that field-trip favorite: 99 Bottles of Beer on the Wall.
